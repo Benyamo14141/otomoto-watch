@@ -1,35 +1,10 @@
 risk;price;year;mileage;fuel;gearbox;title;city;seller;url;flags
--15;29900;2016;156100;petrol;automatic;Peugeot 308;Suchy Las;Centrum Samochodów Używanych IDEA-AUTO Krzysztof Kaczmarek;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6IdcrM.html;GREEN:заявлен без ДТП
--12;35900;2017;120000;petrol;automatic;Peugeot 308 PureTech 130 EAT6 Stop & Start GT-Line Edition;Suchy Las;AGA CARS;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6IeL8u.html;GREEN:свежий сервис
--10;38900;2019;78000;hybrid;automatic;Toyota Corolla 1.8;Turek;;https://www.otomoto.pl/osobowe/oferta/toyota-corolla-ID6Ici9E.html;GREEN:гибрид
--10;39900;2025;16000;hybrid;automatic;Peugeot 308;Pleszew;JK Cars;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6Ie9FS.html;GREEN:гибрид
-0;15800;2019;203000;petrol;automatic;Volkswagen Golf;Piła;;https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6IdGh6.html;
-0;16500;2019;174472;petrol;automatic;Peugeot 308 PureTech 130 GPF EAT8 Stop & Start Allure Business-Paket;Krotoszyn;TRANSCAR;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6I9et4.html;
+-10;44900;2019;82000;petrol;automatic;Ford Focus 1.0 EcoBoost Titanium;Gniezno;AUTO KUJAWSKI SALON AUT UŻYWANYCH Z GWARANCJĄ;https://www.otomoto.pl/osobowe/oferta/ford-focus-ID6IeGPk.html;GREEN:в описании: полная фактура VAT 23%
+-5;29900;2017;191000;petrol-cng;automatic;Skoda Octavia 1.4 TSI G-TEC DSG Ambition;Ostrów Wielkopolski;;https://www.otomoto.pl/osobowe/oferta/skoda-octavia-ID6I1lkb.html;GREEN:в описании: комплект шин
 0;17700;2016;160000;petrol;automatic;Peugeot 308;Szamotuły;;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6Iddrr.html;
-0;21500;2023;91000;petrol;automatic;Peugeot 308 PureTech 130 EAT8 Active Pack;Ostrów Wielkopolski;;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6IcOL4.html;
-0;24000;2016;173371;petrol;automatic;Ford Focus 1.6 Gold X PowerShift;Poznań;Tylko krajowe, bezwypadkowe,serwisowane auta-Twojeuzywane.pl Centrum Samochodów Dealerskich;https://www.otomoto.pl/osobowe/oferta/ford-focus-ID6I5WLI.html;
-0;26800;2017;157000;petrol;automatic;Skoda Octavia 1.0 TSI DSG Ambition;Pleszew;PHU GRZESIAK;https://www.otomoto.pl/osobowe/oferta/skoda-octavia-ID6IfxSx.html;
-0;27000;2016;214367;petrol;automatic;Peugeot 308;Gniezno;;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6IdHz3.html;
-0;27499;2018;239000;petrol;automatic;Ford Focus 1.5 EcoBoost Start-Stopp-System ST-LINE;Piła;Auto Handel Sebastian Cerajewski;https://www.otomoto.pl/osobowe/oferta/ford-focus-ID6IdrbF.html;
-0;27999;2020;71579;petrol;automatic;Ford Focus 1.5 EcoBoost Start-Stopp-System ACTIVE VIGNALE;Gostyń;;https://www.otomoto.pl/osobowe/oferta/ford-focus-ID6IdiNa.html;
-0;28500;2019;152209;petrol;automatic;Ford Focus;Kalisz;;https://www.otomoto.pl/osobowe/oferta/ford-focus-ID6IdQhP.html;
-0;29900;2017;191000;petrol-cng;automatic;Skoda Octavia 1.4 TSI G-TEC DSG Ambition;Ostrów Wielkopolski;;https://www.otomoto.pl/osobowe/oferta/skoda-octavia-ID6I1lkb.html;
-0;30627;2016;111056;petrol;automatic;Volkswagen Golf 1.4 TSI BMT Highline DSG;Marszew;;https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6Ie6nP.html;
-0;31000;2016;198565;petrol;automatic;Kia Ceed 1.6 GDI L DCT;Poznań;Tylko krajowe, bezwypadkowe,serwisowane auta-Twojeuzywane.pl Centrum Samochodów Dealerskich;https://www.otomoto.pl/osobowe/oferta/kia-ceed-ID6IfnwA.html;
-0;31500;2025;56300;petrol;automatic;Skoda Octavia;Wysogotowo;Samochody Uszkodzone - Grupa Cichy-Zasada;https://www.otomoto.pl/osobowe/oferta/skoda-octavia-ID6IdYXY.html;
-0;31900;2017;78190;petrol;automatic;Skoda Octavia 2.0 TSI DSG RS 230;Glinno;PHU REDOSZ;https://www.otomoto.pl/osobowe/oferta/skoda-octavia-ID6IeiIM.html;
-0;34900;2019;123000;petrol-cng;automatic;Skoda Octavia 1.5 TSI G-TEC DSG Ambition;Pleszew;PHU GRZESIAK;https://www.otomoto.pl/osobowe/oferta/skoda-octavia-ID6IfxVr.html;
-0;34900;2018;191805;petrol;automatic;Skoda Octavia 1.5 TSI ACT DSG Style;Zagórów;AUTO-LUX auto handel;https://www.otomoto.pl/osobowe/oferta/skoda-octavia-ID6IbPLF.html;
 0;34900;2018;136831;petrol;automatic;Peugeot 308 PureTech 130 EAT6 Stop & Start GT-Line Edition;Wągrowiec;Auto Komis AMAG;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6IbOHM.html;
-0;36500;2023;52077;petrol;automatic;Peugeot 308 PureTech 130 GPF EAT8 Stop & Start GT;Łąkociny;MINTA;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6IaqkG.html;
-0;36900;2018;80000;petrol;automatic;Skoda Octavia 2.0 TSI DSG RS 245;Lwówek;;https://www.otomoto.pl/osobowe/oferta/skoda-octavia-ID6HNRmb.html;
-0;36900;2019;88000;petrol;automatic;Peugeot 308 PureTech 130 GPF EAT8 Stop & Start Tech Edition;Turek;;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6IfmfS.html;
-0;37900;2024;48000;petrol;automatic;Hyundai i30 1.5 T-GDI 48V Smart Plus DCT;Września;;https://www.otomoto.pl/osobowe/oferta/hyundai-i30-ID6IbIg1.html;
-0;39000;2019;68700;petrol-cng;automatic;Volkswagen Golf;Nądnia;;https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6If4UU.html;
-0;39900;2024;118000;petrol;automatic;Peugeot 308;Margonin;;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6IelRd.html;
-0;41900;2018;179000;petrol;automatic;Kia Ceed;Gniezno;AUTO HANDEL ROBERTO;https://www.otomoto.pl/osobowe/oferta/kia-ceed-ID6Iefdh.html;
-0;41900;2023;68753;petrol;automatic;Hyundai i30 1.5 T-GDI 48V-Hybrid DCT Trend;Ostrów Wielkopolski;;https://www.otomoto.pl/osobowe/oferta/hyundai-i30-ID6Iaatk.html;
 0;43999;2018;153000;petrol;automatic;Hyundai i30 1.4 T-GDI DCT Premium;Swarzędz;;https://www.otomoto.pl/osobowe/oferta/hyundai-i30-ID6IeBv4.html;
-0;44900;2017;115000;petrol;automatic;Honda Civic;Brodowo;Auto KomiS Brodowo Dealer Aut Używanych z Gwarancją do 24 Miesięcy;https://www.otomoto.pl/osobowe/oferta/honda-civic-ID6IfjT2.html;
-0;44900;2019;82000;petrol;automatic;Ford Focus 1.0 EcoBoost Titanium;Gniezno;AUTO KUJAWSKI SALON AUT UŻYWANYCH Z GWARANCJĄ;https://www.otomoto.pl/osobowe/oferta/ford-focus-ID6IeGPk.html;
-60;19500;2017;174000;petrol;automatic;Skoda Octavia 1.4 TSI Style DSG;Ostrzeszów;;https://www.otomoto.pl/osobowe/oferta/skoda-octavia-ID6IfvI0.html;RED:заявленное повреждение / после аварии
+40;39900;2025;16000;hybrid;automatic;Peugeot 308;Pleszew;JK Cars;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6Ie9FS.html;RED:в описании: заявленное повреждение / после аварии | GREEN:в описании: полная фактура VAT 23% | GREEN:гибрид
+60;16500;2019;174472;petrol;automatic;Peugeot 308 PureTech 130 GPF EAT8 Stop & Start Allure Business-Paket;Krotoszyn;TRANSCAR;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6I9et4.html;RED:в описании: заявленное повреждение / после аварии
+60;31500;2025;56300;petrol;automatic;Skoda Octavia;Wysogotowo;Samochody Uszkodzone - Grupa Cichy-Zasada;https://www.otomoto.pl/osobowe/oferta/skoda-octavia-ID6IdYXY.html;RED:в описании: заявленное повреждение / после аварии
+60;36500;2023;52077;petrol;automatic;Peugeot 308 PureTech 130 GPF EAT8 Stop & Start GT;Łąkociny;MINTA;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6IaqkG.html;RED:в описании: заявленное повреждение / после аварии
