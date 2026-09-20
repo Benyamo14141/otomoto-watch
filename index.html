@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="ru"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Otomoto — подбор авто</title>
+<style>
+:root{--bg:#0f1115;--card:#171a21;--fg:#e6e8ee;--mut:#8b93a7;--ok:#2fbf71;--wn:#e8b339;--bd:#e0574a;--ln:#252a34}
+*{box-sizing:border-box}
+body{margin:0;padding:24px;background:var(--bg);color:var(--fg);font:15px/1.5 -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif}
+h1{margin:0 0 4px;font-size:22px}
+.meta{color:var(--mut);font-size:13px;margin-bottom:16px}
+.stats{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:18px}
+.stat{background:var(--card);border:1px solid var(--ln);border-radius:10px;padding:10px 14px;font-size:13px}
+.stat b{display:block;font-size:20px}
+.filters{margin-bottom:12px;display:flex;gap:8px;flex-wrap:wrap}
+.filters button{background:var(--card);color:var(--fg);border:1px solid var(--ln);border-radius:8px;padding:7px 13px;cursor:pointer;font-size:13px}
+.filters button.on{border-color:#4a5568;background:#20252f}
+table{width:100%;border-collapse:collapse;background:var(--card);border-radius:12px;overflow:hidden}
+th,td{padding:10px 12px;text-align:left;border-bottom:1px solid var(--ln);font-size:14px;vertical-align:top}
+th{color:var(--mut);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:.04em}
+tr:last-child td{border-bottom:none}
+.risk{white-space:nowrap;font-variant-numeric:tabular-nums}
+.price{white-space:nowrap}
+.ttl{font-weight:600}
+.flags{color:var(--mut);font-size:12px;max-width:280px}
+a{color:#7aa2f7;text-decoration:none}a:hover{text-decoration:underline}
+tr.good{border-left:3px solid var(--ok)}tr.warn{border-left:3px solid var(--wn)}tr.bad{border-left:3px solid var(--bd)}
+.drop{color:var(--ok);font-size:12px;font-weight:600}
+tr.bad .ttl{color:var(--mut)}
+@media(max-width:900px){.flags{display:none}th:nth-child(9){display:none}}
+</style></head><body>
+<h1>Otomoto — подбор авто</h1>
+<div class="meta">Обновлено 2026-09-20 03:35 · автомат · камера + парктроники · 2016+ · до 45 000 zł</div>
+<div class="stats">
+<div class="stat"><b>9</b>всего</div>
+<div class="stat"><b style="color:var(--ok)">5</b>чистых</div>
+<div class="stat"><b style="color:var(--wn)">0</b>с вопросами</div>
+<div class="stat"><b style="color:var(--bd)">4</b>отбракованных</div>
+</div>
+<div class="filters">
+<button class="on" data-f="all">Все</button>
+<button data-f="good">🟢 Чистые</button>
+<button data-f="warn">🟡 Вопросы</button>
+<button data-f="bad">🔴 Бракованные</button>
+</div>
+<table><thead><tr>
+<th>Риск</th><th>Цена</th><th>Год</th><th>Пробег</th><th>Топливо</th><th>КПП</th><th>Модель</th><th>Город</th><th>Замечания</th><th></th>
+</tr></thead><tbody>
+<tr class="good">
+<td class="risk">🟢 -10</td>
+<td class="price"><b>44 900 zł</b> </td>
+<td>2019</td>
+<td>82000</td>
+<td>petrol</td>
+<td>automatic</td>
+<td class="ttl">Ford Focus 1.0 EcoBoost Titanium</td>
+<td>Gniezno</td>
+<td class="flags">GREEN:в описании: полная фактура VAT 23%</td>
+<td><a href="https://www.otomoto.pl/osobowe/oferta/ford-focus-ID6IeGPk.html" target="_blank" rel="noopener">открыть</a></td>
+</tr>
+<tr class="good">
+<td class="risk">🟢 -5</td>
+<td class="price"><b>29 900 zł</b> </td>
+<td>2017</td>
+<td>191000</td>
+<td>petrol-cng</td>
+<td>automatic</td>
+<td class="ttl">Skoda Octavia 1.4 TSI G-TEC DSG Ambition</td>
+<td>Ostrów Wielkopolski</td>
+<td class="flags">GREEN:в описании: комплект шин</td>
+<td><a href="https://www.otomoto.pl/osobowe/oferta/skoda-octavia-ID6I1lkb.html" target="_blank" rel="noopener">открыть</a></td>
+</tr>
+<tr class="good">
+<td class="risk">🟢 0</td>
+<td class="price"><b>17 700 zł</b> </td>
+<td>2016</td>
+<td>160000</td>
+<td>petrol</td>
+<td>automatic</td>
+<td class="ttl">Peugeot 308</td>
+<td>Szamotuły</td>
+<td class="flags"></td>
+<td><a href="https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6Iddrr.html" target="_blank" rel="noopener">открыть</a></td>
+</tr>
+<tr class="good">
+<td class="risk">🟢 0</td>
+<td class="price"><b>34 900 zł</b> </td>
+<td>2018</td>
+<td>136831</td>
+<td>petrol</td>
+<td>automatic</td>
+<td class="ttl">Peugeot 308 PureTech 130 EAT6 Stop &amp; Start GT-Line Edition</td>
+<td>Wągrowiec</td>
+<td class="flags"></td>
+<td><a href="https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6IbOHM.html" target="_blank" rel="noopener">открыть</a></td>
+</tr>
+<tr class="good">
+<td class="risk">🟢 0</td>
+<td class="price"><b>43 999 zł</b> </td>
+<td>2018</td>
+<td>153000</td>
+<td>petrol</td>
+<td>automatic</td>
+<td class="ttl">Hyundai i30 1.4 T-GDI DCT Premium</td>
+<td>Swarzędz</td>
+<td class="flags"></td>
+<td><a href="https://www.otomoto.pl/osobowe/oferta/hyundai-i30-ID6IeBv4.html" target="_blank" rel="noopener">открыть</a></td>
+</tr>
+<tr class="bad">
+<td class="risk">🔴 40</td>
+<td class="price"><b>39 900 zł</b> </td>
+<td>2025</td>
+<td>16000</td>
+<td>hybrid</td>
+<td>automatic</td>
+<td class="ttl">Peugeot 308</td>
+<td>Pleszew</td>
+<td class="flags">RED:в описании: заявленное повреждение / после аварии · GREEN:в описании: полная фактура VAT 23% · GREEN:гибрид</td>
+<td><a href="https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6Ie9FS.html" target="_blank" rel="noopener">открыть</a></td>
+</tr>
+<tr class="bad">
+<td class="risk">🔴 60</td>
+<td class="price"><b>16 500 zł</b> </td>
+<td>2019</td>
+<td>174472</td>
+<td>petrol</td>
+<td>automatic</td>
+<td class="ttl">Peugeot 308 PureTech 130 GPF EAT8 Stop &amp; Start Allure Business-Paket</td>
+<td>Krotoszyn</td>
+<td class="flags">RED:в описании: заявленное повреждение / после аварии</td>
+<td><a href="https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6I9et4.html" target="_blank" rel="noopener">открыть</a></td>
+</tr>
+<tr class="bad">
+<td class="risk">🔴 60</td>
+<td class="price"><b>31 500 zł</b> </td>
+<td>2025</td>
+<td>56300</td>
+<td>petrol</td>
+<td>automatic</td>
+<td class="ttl">Skoda Octavia</td>
+<td>Wysogotowo</td>
+<td class="flags">RED:в описании: заявленное повреждение / после аварии</td>
+<td><a href="https://www.otomoto.pl/osobowe/oferta/skoda-octavia-ID6IdYXY.html" target="_blank" rel="noopener">открыть</a></td>
+</tr>
+<tr class="bad">
+<td class="risk">🔴 60</td>
+<td class="price"><b>36 500 zł</b> </td>
+<td>2023</td>
+<td>52077</td>
+<td>petrol</td>
+<td>automatic</td>
+<td class="ttl">Peugeot 308 PureTech 130 GPF EAT8 Stop &amp; Start GT</td>
+<td>Łąkociny</td>
+<td class="flags">RED:в описании: заявленное повреждение / после аварии</td>
+<td><a href="https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6IaqkG.html" target="_blank" rel="noopener">открыть</a></td>
+</tr>
+</tbody></table>
+<script>
+document.querySelectorAll('.filters button').forEach(function(b){
+  b.addEventListener('click',function(){
+    document.querySelectorAll('.filters button').forEach(function(x){x.classList.remove('on')});
+    b.classList.add('on');
+    var f=b.dataset.f;
+    document.querySelectorAll('tbody tr').forEach(function(tr){
+      tr.style.display=(f==='all'||tr.classList.contains(f))?'':'none';
+    });
+  });
+});
+</script>
+</body></html>
