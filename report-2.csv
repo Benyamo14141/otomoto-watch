@@ -4,10 +4,12 @@ risk;price;year;mileage;fuel;gearbox;title;city;seller;url;flags
 -38;17700;2006;170000;hybrid;automatic;Honda Civic 1.3i-DSI VTEC IMA CVT Elegance;Margonin;Auto Centrum MŁYNARY;https://www.otomoto.pl/osobowe/oferta/honda-civic-ID6IaCBj.html;GREEN:в описании: сервисная история | GREEN:в описании: гаражное хранение | GREEN:гибрид
 -30;18500;2008;138162;petrol;automatic;Toyota Auris 1.6 VVT-i Multimode Sol;Kościan;;https://www.otomoto.pl/osobowe/oferta/toyota-auris-ID6IeMtn.html;GREEN:первый владелец | GREEN:в описании: первый владелец
 -27;35900;2017;120000;petrol;automatic;Peugeot 308 PureTech 130 EAT6 Stop & Start GT-Line Edition;Suchy Las;AGA CARS;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6IeL8u.html;GREEN:свежий сервис | GREEN:в описании: заявлен без ДТП
+-20;19999;2012;105495;petrol;automatic;FIAT 500 1.2 BENZYNA 70 KM • AUTOMAT• panorama dach • po opłatach celnych!;Ostrów Wielkopolski;Marek;https://www.olx.pl/d/oferta/fiat-500-1-2-benzyna-70-km-automat-panorama-dach-po-oplatach-celnych-CID5-ID1chS2K.html;GREEN:сервисная история
 -20;24000;2016;173371;petrol;automatic;Ford Focus 1.6 Gold X PowerShift;Poznań;Tylko krajowe, bezwypadkowe,serwisowane auta-Twojeuzywane.pl Centrum Samochodów Dealerskich;https://www.otomoto.pl/osobowe/oferta/ford-focus-ID6I5WLI.html;GREEN:в описании: сервисная история
 -20;31000;2016;198565;petrol;automatic;Kia Ceed 1.6 GDI L DCT;Poznań;Tylko krajowe, bezwypadkowe,serwisowane auta-Twojeuzywane.pl Centrum Samochodów Dealerskich;https://www.otomoto.pl/osobowe/oferta/kia-ceed-ID6IfnwA.html;GREEN:в описании: сервисная история
 -20;38000;2010;217000;petrol;automatic;Honda CR-V 2.0 Executive;Poznań;;https://www.otomoto.pl/osobowe/oferta/honda-cr-v-ID6IfzdU.html;GREEN:в описании: сервисная история
 -15;9555;2009;180000;petrol;automatic;Volkswagen Golf 1.4 TSI DSG Trendline;Kępno;;https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6IcrA7.html;GREEN:в описании: заявлен без ДТП
+-15;29900;2017;162200;petrol;automatic;Jeep Renegade Jeep Renegade 1.4 MultiAir 140 koni 2017 rok bezwypadkowy;Ostrów Wielkopolski;Łukasz;https://www.olx.pl/d/oferta/jeep-renegade-jeep-renegade-1-4-multiair-140-koni-2017-rok-bezwypadkowy-CID5-ID1coW6w.html;GREEN:заявлен без ДТП
 -15;41900;2018;179000;petrol;automatic;Kia Ceed;Gniezno;AUTO HANDEL ROBERTO;https://www.otomoto.pl/osobowe/oferta/kia-ceed-ID6Iefdh.html;GREEN:в описании: заявлен без ДТП
 -15;42900;2016;210000;petrol;automatic;Volkswagen Touran;Złotów;;https://www.otomoto.pl/osobowe/oferta/volkswagen-touran-ID6I8Iff.html;GREEN:в описании: заявлен без ДТП
 -10;13900;2009;151687;petrol;automatic;Volkswagen Golf 1.4 TSI DSG Comfortline;Drawski Młyn;Albatros;https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6I9j1F.html;RED:в описании: VAT marża / перекуп | GREEN:в описании: сервисная история
@@ -19,28 +21,41 @@ risk;price;year;mileage;fuel;gearbox;title;city;seller;url;flags
 -10;44900;2019;82000;petrol;automatic;Ford Focus 1.0 EcoBoost Titanium;Gniezno;AUTO KUJAWSKI SALON AUT UŻYWANYCH Z GWARANCJĄ;https://www.otomoto.pl/osobowe/oferta/ford-focus-ID6IeGPk.html;GREEN:в описании: полная фактура VAT 23%
 -10;44900;2017;71856;hybrid;automatic;Toyota RAV4 Hybrid Premium 4x4;Kępno;;https://www.otomoto.pl/osobowe/oferta/toyota-rav4-ID6IdWSv.html;GREEN:гибрид
 -5;29900;2017;191000;petrol-cng;automatic;Skoda Octavia 1.4 TSI G-TEC DSG Ambition;Ostrów Wielkopolski;;https://www.otomoto.pl/osobowe/oferta/skoda-octavia-ID6I1lkb.html;GREEN:в описании: комплект шин
+0;4950;2005;113000;petrol;automatic;Honda Jazz 1.4 * automat * klima * przegląd;Poznań;Ankapx;https://www.olx.pl/d/oferta/honda-jazz-1-4-automat-klima-przeglad-CID5-ID18fMzV.html;
+0;13800;2007;114868;petrol-lpg;automatic;Suzuki Swift Suzuki Swift Automat, LPG;Ostrów Wielkopolski;Jarosław;https://www.olx.pl/d/oferta/suzuki-swift-suzuki-swift-automat-lpg-CID5-ID1cp0m9.html;
 0;15700;2009;149764;petrol;automatic;Honda Civic;Chocz;AUTO KOMIS INTER-MIX;https://www.otomoto.pl/osobowe/oferta/honda-civic-ID6Iemao.html;
 0;15900;2010;199854;petrol;automatic;Mazda 6 Sport 2.0 Exclusive;Swarzędz;;https://www.otomoto.pl/osobowe/oferta/mazda-6-ID6IeQJb.html;
 0;17700;2016;160000;petrol;automatic;Peugeot 308;Szamotuły;;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6Iddrr.html;
+0;18900;2010;71000;petrol;automatic;Opel Astra OPEL ASTRA J , 2010 rok  , automat  , mały przebieg;Poznań;Paweł;https://www.olx.pl/d/oferta/opel-astra-opel-astra-j-2010-rok-automat-maly-przebieg-CID5-ID18sUoN.html;
 0;19990;2009;178000;petrol-lpg;automatic;Honda Civic 1.8 Comfort;Biedrusko;;https://www.otomoto.pl/osobowe/oferta/honda-civic-ID6I2Igv.html;
+0;20000;1992;195000;petrol;automatic;Audi 80;Zagórów;Otomoto;https://www.olx.pl/d/oferta/audi-80-CID5-ID1awFjm.html;
 0;20800;2015;132000;petrol;automatic;Peugeot 308;Jarocin;;https://www.otomoto.pl/osobowe/oferta/peugeot-308-OLX_ID6Ie0Wn.html;
+0;24900;1978;164000;petrol;automatic;BMW Seria 7 E23 728 Automat Na Gaźniku;Grodzisko;Błażej;https://www.olx.pl/d/oferta/bmw-seria-7-e23-728-automat-na-gazniku-CID5-ID1coA24.html;
 0;27000;2016;214367;petrol;automatic;Peugeot 308;Gniezno;;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6IdHz3.html;
 0;31900;2017;78190;petrol;automatic;Skoda Octavia 2.0 TSI DSG RS 230;Glinno;PHU REDOSZ;https://www.otomoto.pl/osobowe/oferta/skoda-octavia-ID6IeiIM.html;
+0;33900;2006;1;petrol;automatic;Ford Mustang 4.0 V6 2006 Cabrio;Licheń Stary;Anna;https://www.olx.pl/d/oferta/ford-mustang-4-0-v6-2006-cabrio-CID5-ID1btRki.html;
 0;34900;2018;191805;petrol;automatic;Skoda Octavia 1.5 TSI ACT DSG Style;Zagórów;AUTO-LUX auto handel;https://www.otomoto.pl/osobowe/oferta/skoda-octavia-ID6IbPLF.html;
 0;34900;2018;136831;petrol;automatic;Peugeot 308 PureTech 130 EAT6 Stop & Start GT-Line Edition;Wągrowiec;Auto Komis AMAG;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6IbOHM.html;
+0;34999;2015;123532;petrol;automatic;BMW Seria 2 BMW F46 218i 2015r 123 tyś km !!! SPRAWDŹ!!!;Budzyń;Anonymous;https://www.olx.pl/d/oferta/bmw-seria-2-bmw-f46-218i-2015r-123-tys-km-sprawdz-CID5-ID1coT0J.html;
 0;36900;2019;88000;petrol;automatic;Peugeot 308 PureTech 130 GPF EAT8 Stop & Start Tech Edition;Turek;;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6IfmfS.html;
+0;36900;2014;125000;petrol;automatic;Golf Sportsvan 1.4 TSI DSG  120 000KM;Poznań;DominikaS;https://www.olx.pl/d/oferta/golf-sportsvan-1-4-tsi-dsg-120-000km-CID5-ID1cotWf.html;
+0;38000;2010;217000;petrol;automatic;Honda CR-V;Poznań;Maciej;https://www.olx.pl/d/oferta/honda-cr-v-CID5-ID1coyFz.html;
 0;38600;2014;160000;petrol;automatic;Skoda Octavia 1.8 TSI DSG Style;Poznań;;https://www.otomoto.pl/osobowe/oferta/skoda-octavia-ID6Ifang.html;
 0;39000;2019;68700;petrol-cng;automatic;Volkswagen Golf;Nądnia;;https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6If4UU.html;
 0;39900;2024;118000;petrol;automatic;Peugeot 308;Margonin;;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6IelRd.html;
 0;39900;2015;137000;petrol;automatic;Honda CR-V 2.0i-VTEC 4WD Automatik Executive;Gniezno;;https://www.otomoto.pl/osobowe/oferta/honda-cr-v-ID6Ieyd1.html;
 0;39900;2010;215500;petrol-lpg;automatic;Honda CR-V 2.0 Elegance;Śrem;;https://www.otomoto.pl/osobowe/oferta/honda-cr-v-ID6IdkRZ.html;
+0;39900;2011;218143;petrol;automatic;Mercedes-Benz Klasa E Automat Pół Skóra Wewnętrzny pakiet AMG Z Niemiec Zarejestrowany;Gniezno;Marek;https://www.olx.pl/d/oferta/mercedes-benz-klasa-e-automat-pol-skora-wewnetrzny-pakiet-amg-z-niemiec-zarejestrowany-CID5-ID1cbGpV.html;
+0;39999;2022;52000;petrol;automatic;Cesja leasingu Kia Ceed 1.6 GDI PHEV Business Line DCT bez odstepnego;Żydowo;Mrapol;https://www.olx.pl/d/oferta/cesja-leasingu-kia-ceed-1-6-gdi-phev-business-line-dct-bez-odstepnego-CID5-ID1bizCa.html;
 0;41900;2023;68753;petrol;automatic;Hyundai i30 1.5 T-GDI 48V-Hybrid DCT Trend;Ostrów Wielkopolski;;https://www.otomoto.pl/osobowe/oferta/hyundai-i30-ID6Iaatk.html;
 0;43999;2018;153000;petrol;automatic;Hyundai i30 1.4 T-GDI DCT Premium;Swarzędz;;https://www.otomoto.pl/osobowe/oferta/hyundai-i30-ID6IeBv4.html;
+0;44900;2022;19161;petrol;automatic;Peugeot 208 @@@ Niski przebieg, 8 biegowy automat @@@;Turek;Otomoto;https://www.olx.pl/d/oferta/peugeot-208-niski-przebieg-8-biegowy-automat-CID5-ID1coIQj.html;
 5;21500;2008;138162;petrol;automatic;Toyota Auris;Poznań;AAA AUTO +19 000 sprawdzonych aut w ofercie! Kredyt i Leasing na miarę;https://www.otomoto.pl/osobowe/oferta/toyota-auris-ID6Ifb72.html;RED:в описании: мало данных в объявлении
 10;34900;2009;172887;petrol;automatic;Honda CR-V 2.0i-VTEC Automatik Elegance;Zagórów;AUTO-LUX auto handel;https://www.otomoto.pl/osobowe/oferta/honda-cr-v-ID6I0kcZ.html;RED:в описании: VAT marża / перекуп
 15;23400;2007;198471;petrol;automatic;Toyota RAV4 2.0 4x4 Automatik Sol;Złotów;;https://www.otomoto.pl/osobowe/oferta/toyota-rav4-ID6IcFPX.html;GREEN:заявлен без ДТП | RED:в описании: требует ремонта
 15;44900;2017;115000;petrol;automatic;Honda Civic;Brodowo;Auto KomiS Brodowo Dealer Aut Używanych z Gwarancją do 24 Miesięcy;https://www.otomoto.pl/osobowe/oferta/honda-civic-ID6IfjT2.html;RED:в описании: требует ремонта | GREEN:в описании: заявлен без ДТП
 20;15500;2009;214000;petrol;automatic;Volkswagen Golf 1.4 TSI DSG Highline;Podrzewie;PHU Piotr Brzóstowicz;https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6IddAo.html;RED:в описании: проблема цепи ГРМ/натяжителя (в контексте) | GREEN:в описании: заявлен без ДТП
+30;40000;1990;91000;petrol;automatic;Mercedes 124 coupe 300 CE 24V jedyny taki zabytkowy piękny;Poznań;Krzysztof;https://www.olx.pl/d/oferta/mercedes-124-coupe-300-ce-24v-jedyny-taki-zabytkowy-piekny-CID5-ID1bYX1z.html;RED:следы ДТП
 35;12500;2009;207880;petrol;automatic;Volkswagen Touran 1.4 TSI DSG Cross;Kalisz;;https://www.otomoto.pl/osobowe/oferta/volkswagen-touran-ID6I3DiC.html;RED:в описании: проблемы КПП/мехатроник
 35;29900;2016;144500;petrol;automatic;Ford Focus 1.0 EcoBoost SYNC Edition ASS PowerShift;Biskupice;;https://www.otomoto.pl/osobowe/oferta/ford-focus-ID6If44P.html;RED:в описании: проблема цепи ГРМ/натяжителя (в контексте)
 40;39900;2025;16000;hybrid;automatic;Peugeot 308;Pleszew;JK Cars;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6Ie9FS.html;RED:в описании: заявленное повреждение / после аварии | GREEN:в описании: полная фактура VAT 23% | GREEN:гибрид
@@ -51,6 +66,7 @@ risk;price;year;mileage;fuel;gearbox;title;city;seller;url;flags
 50;29900;2018;138000;hybrid;automatic;Toyota Auris;Franklinów;Phu Działoszynski;https://www.otomoto.pl/osobowe/oferta/toyota-auris-ID6IecXq.html;RED:в описании: заявленное повреждение / после аварии | GREEN:гибрид
 50;38900;2019;78000;hybrid;automatic;Toyota Corolla 1.8;Turek;;https://www.otomoto.pl/osobowe/oferta/toyota-corolla-ID6Ici9E.html;RED:в описании: заявленное повреждение / после аварии | GREEN:гибрид
 50;39900;2018;117523;hybrid;automatic;Toyota Auris Hybrid 135 Selection;Chodzież;;https://www.otomoto.pl/osobowe/oferta/toyota-auris-ID6IeSf1.html;RED:в описании: заявленное повреждение / после аварии | GREEN:гибрид
+60;6800;2004;155000;petrol;automatic;Smart fortwo 2004 półautomat;Suchy Las;Monika;https://www.olx.pl/d/oferta/smart-fortwo-2004-polautomat-CID5-ID1col0S.html;RED:заявленное повреждение / после аварии
 60;10900;2011;95000;petrol;automatic;Mazda 6;Kórnik;;https://www.otomoto.pl/osobowe/oferta/mazda-6-ID6IdMD0.html;RED:в описании: заявленное повреждение / после аварии
 60;15800;2019;203000;petrol;automatic;Volkswagen Golf;Piła;;https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6IdGh6.html;RED:в описании: заявленное повреждение / после аварии
 60;16500;2019;174472;petrol;automatic;Peugeot 308 PureTech 130 GPF EAT8 Stop & Start Allure Business-Paket;Krotoszyn;TRANSCAR;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6I9et4.html;RED:в описании: заявленное повреждение / после аварии
@@ -58,13 +74,20 @@ risk;price;year;mileage;fuel;gearbox;title;city;seller;url;flags
 60;26800;2017;157000;petrol;automatic;Skoda Octavia 1.0 TSI DSG Ambition;Pleszew;PHU GRZESIAK;https://www.otomoto.pl/osobowe/oferta/skoda-octavia-ID6IfxSx.html;RED:в описании: заявленное повреждение / после аварии
 60;27999;2020;71579;petrol;automatic;Ford Focus 1.5 EcoBoost Start-Stopp-System ACTIVE VIGNALE;Gostyń;;https://www.otomoto.pl/osobowe/oferta/ford-focus-ID6IdiNa.html;RED:в описании: заявленное повреждение / после аварии
 60;28500;2019;152209;petrol;automatic;Ford Focus;Kalisz;;https://www.otomoto.pl/osobowe/oferta/ford-focus-ID6IdQhP.html;RED:в описании: заявленное повреждение / после аварии
+60;30000;2011;180604;petrol;automatic;Toyota Auris --Hybryda lub zamiana ( i dopłacę );Kalisz;Franciszek;https://www.olx.pl/d/oferta/toyota-auris-hybryda-lub-zamiana-i-doplace-CID5-ID19MwW8.html;RED:заявленное повреждение / после аварии
 60;30627;2016;111056;petrol;automatic;Volkswagen Golf 1.4 TSI BMT Highline DSG;Marszew;;https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6Ie6nP.html;RED:в описании: заявленное повреждение / после аварии
 60;31500;2025;56300;petrol;automatic;Skoda Octavia;Wysogotowo;Samochody Uszkodzone - Grupa Cichy-Zasada;https://www.otomoto.pl/osobowe/oferta/skoda-octavia-ID6IdYXY.html;RED:в описании: заявленное повреждение / после аварии
 60;34900;2019;123000;petrol-cng;automatic;Skoda Octavia 1.5 TSI G-TEC DSG Ambition;Pleszew;PHU GRZESIAK;https://www.otomoto.pl/osobowe/oferta/skoda-octavia-ID6IfxVr.html;RED:в описании: заявленное повреждение / после аварии
+60;34900;2014;117000;petrol;automatic;Infiniti QX70 5.0 V8 390KM Kamera 360 Klimatronik Felgi 21'' Navi;Słupca;Otomoto;https://www.olx.pl/d/oferta/infiniti-qx70-5-0-v8-390km-kamera-360-klimatronik-felgi-21-039-039-navi-CID5-ID1bQHeH.html;RED:OLX: помечено как повреждённое
 60;36500;2023;52077;petrol;automatic;Peugeot 308 PureTech 130 GPF EAT8 Stop & Start GT;Łąkociny;MINTA;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6IaqkG.html;RED:в описании: заявленное повреждение / после аварии
 60;36900;2018;80000;petrol;automatic;Skoda Octavia 2.0 TSI DSG RS 245;Lwówek;;https://www.otomoto.pl/osobowe/oferta/skoda-octavia-ID6HNRmb.html;RED:в описании: заявленное повреждение / после аварии
 60;37900;2024;48000;petrol;automatic;Hyundai i30 1.5 T-GDI 48V Smart Plus DCT;Września;;https://www.otomoto.pl/osobowe/oferta/hyundai-i30-ID6IbIg1.html;RED:в описании: заявленное повреждение / после аварии
 60;39900;2019;84000;petrol;automatic;Mazda 6 SKYACTIV-G 194 Drive i-ELOOP Sports-Line;Bolechowo Osiedle;;https://www.otomoto.pl/osobowe/oferta/mazda-6-ID6I8EV3.html;RED:в описании: заявленное повреждение / после аварии
 60;39999;2016;165000;petrol;automatic;Volkswagen Touran;Gostyń;;https://www.otomoto.pl/osobowe/oferta/volkswagen-touran-ID6IfvUo.html;RED:в описании: заявленное повреждение / после аварии
+65;13990;2008;197000;petrol;automatic;VW Golf Plus 1.6Mpi Dsg;Konin;Alek;https://www.olx.pl/d/oferta/vw-golf-plus-1-6mpi-dsg-CID5-ID1ciK2g.html;RED:рывки/стуки | RED:проблемы КПП/мехатроник
+100;26300;2024;20552;petrol;automatic;SEAT LEON SPORTSTOURER FR*1.5TSI 150KM*DSG-7*kamera*serwis*z Niemiec*;Bralin;OLIMA;https://www.olx.pl/d/oferta/seat-leon-sportstourer-fr1-5tsi-150kmdsg-7kameraserwisz-niemiec-CID5-ID18Pisa.html;RED:заявленное повреждение / после аварии | GREEN:сервисная история | RED:OLX: помечено как повреждённое
+120;18999;2017;70000;petrol;automatic;Mercedes-Benz CLA;Bralin;Otomoto;https://www.olx.pl/d/oferta/mercedes-benz-cla-CID5-ID19KCkY.html;RED:заявленное повреждение / после аварии | RED:OLX: помечено как повреждённое
 120;19500;2017;174000;petrol;automatic;Skoda Octavia 1.4 TSI Style DSG;Ostrzeszów;;https://www.otomoto.pl/osobowe/oferta/skoda-octavia-ID6IfvI0.html;RED:заявленное повреждение / после аварии | RED:в описании: заявленное повреждение / после аварии
+120;31900;2015;196000;petrol;automatic;Ford Edge 3,5 V6 4x4, delikatnie uszkodzony, auto w Polsce;Jarocin;Otomoto;https://www.olx.pl/d/oferta/ford-edge-3-5-v6-4x4-delikatnie-uszkodzony-auto-w-polsce-CID5-ID1col9Q.html;RED:заявленное повреждение / после аварии | RED:OLX: помечено как повреждённое
+120;39000;2025;25000;petrol;automatic;Ford Focus Ford Focus HYBRYD, ST line;Szamocin;Robert;https://www.olx.pl/d/oferta/ford-focus-ford-focus-hybryd-st-line-CID5-ID1coj0q.html;RED:заявленное повреждение / после аварии | RED:OLX: помечено как повреждённое
 135;25000;2012;170400;petrol;automatic;Kia Ceed 1.6 GDI DCT Spirit;Kościan;;https://www.otomoto.pl/osobowe/oferta/kia-ceed-ID6Iesk2.html;RED:заявленное повреждение / после аварии | RED:в описании: требует ремонта | RED:в описании: заявленное повреждение / после аварии | GREEN:в описании: заявлен без ДТП
