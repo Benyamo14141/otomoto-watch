@@ -1,0 +1,10 @@
+risk;price;year;mileage;fuel;gearbox;title;city;seller;url;flags
+-10;44900;2019;82000;petrol;automatic;Ford Focus 1.0 EcoBoost Titanium;Gniezno;AUTO KUJAWSKI SALON AUT UŻYWANYCH Z GWARANCJĄ;https://www.otomoto.pl/osobowe/oferta/ford-focus-ID6IeGPk.html;GREEN:в описании: полная фактура VAT 23%
+-5;29900;2017;191000;petrol-cng;automatic;Skoda Octavia 1.4 TSI G-TEC DSG Ambition;Ostrów Wielkopolski;;https://www.otomoto.pl/osobowe/oferta/skoda-octavia-ID6I1lkb.html;GREEN:в описании: комплект шин
+0;17700;2016;160000;petrol;automatic;Peugeot 308;Szamotuły;;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6Iddrr.html;
+0;34900;2018;136831;petrol;automatic;Peugeot 308 PureTech 130 EAT6 Stop & Start GT-Line Edition;Wągrowiec;Auto Komis AMAG;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6IbOHM.html;
+0;43999;2018;153000;petrol;automatic;Hyundai i30 1.4 T-GDI DCT Premium;Swarzędz;;https://www.otomoto.pl/osobowe/oferta/hyundai-i30-ID6IeBv4.html;
+40;39900;2025;16000;hybrid;automatic;Peugeot 308;Pleszew;JK Cars;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6Ie9FS.html;RED:в описании: заявленное повреждение / после аварии | GREEN:в описании: полная фактура VAT 23% | GREEN:гибрид
+60;16500;2019;174472;petrol;automatic;Peugeot 308 PureTech 130 GPF EAT8 Stop & Start Allure Business-Paket;Krotoszyn;TRANSCAR;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6I9et4.html;RED:в описании: заявленное повреждение / после аварии
+60;31500;2025;56300;petrol;automatic;Skoda Octavia;Wysogotowo;Samochody Uszkodzone - Grupa Cichy-Zasada;https://www.otomoto.pl/osobowe/oferta/skoda-octavia-ID6IdYXY.html;RED:в описании: заявленное повреждение / после аварии
+60;36500;2023;52077;petrol;automatic;Peugeot 308 PureTech 130 GPF EAT8 Stop & Start GT;Łąkociny;MINTA;https://www.otomoto.pl/osobowe/oferta/peugeot-308-ID6IaqkG.html;RED:в описании: заявленное повреждение / после аварии
